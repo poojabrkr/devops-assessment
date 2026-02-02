@@ -39,6 +39,11 @@ Docker was not properly installed or added to the system PATH.
 Due to system limitations and time constraints, the application could not be
 fully executed locally.
 
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/b5c33c11-2664-4163-a930-c74359c0f975" />
+
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/726b4523-d120-418b-9697-c6a3c641161b" />
+
+
 ---
 
 ## CI/CD
@@ -57,9 +62,6 @@ However, Dockerization and deployment steps are clearly documented.
 This assignment demonstrates my understanding of Docker, containerization,
 and DevOps workflow concepts despite execution challenges.
 
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/b5c33c11-2664-4163-a930-c74359c0f975" />
-
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/726b4523-d120-418b-9697-c6a3c641161b" />
 
 
 
